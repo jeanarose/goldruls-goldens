@@ -8,6 +8,10 @@
     text-align: right;
 }
 
+.dropdown-item.active{
+    background-color: lightgrey;
+}
+
 /* Container styling */
 
 h1 {
